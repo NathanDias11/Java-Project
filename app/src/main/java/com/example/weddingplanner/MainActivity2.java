@@ -30,10 +30,20 @@ public class MainActivity2 extends AppCompatActivity {
         String gus = intent.getStringExtra(MainActivity.EXTRA_NAME1);
         String bud = intent.getStringExtra(MainActivity.EXTRA_NAME2);
 
+        int number = Integer.parseInt(gus);
+
+        if(number==45)
+        {
+            editTextTextPersonName5.setText(gus);
+        }
+        else {
+            editTextTextPersonName5.setText(null);
+        }
+
 
 
         editTextTextPersonName4.setText(loc);
-        editTextTextPersonName5.setText(gus);
+        //editTextTextPersonName5.setText(gus);
         editTextTextPersonName6.setText(bud);
 
 

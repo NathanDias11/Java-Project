@@ -2678,9 +2678,9 @@ int id easeIn 0x7f0800a9
 int id easeInOut 0x7f0800aa
 int id easeOut 0x7f0800ab
 int id east 0x7f0800ac
-int id editTextNumber 0x7f0801e4
-int id editTextNumber2 0x7f0801e5
-int id editTextTextPersonName 0x7f0800ad
+int id editTextNumber 0x7f0800ad
+int id editTextNumber2 0x7f0800ae
+int id editTextTextPersonName 0x7f0800af
 int id editTextTextPersonName4 0x7f0800b0
 int id editTextTextPersonName5 0x7f0800b1
 int id editTextTextPersonName6 0x7f0800b2
