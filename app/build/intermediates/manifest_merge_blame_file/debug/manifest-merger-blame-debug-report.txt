@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.weddingplanner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:5:5-37:19
+12        android:allowBackup="true"
+12-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.7.0] C:\Users\natha\.gradle\caches\transforms-3\249713548fb8d92d9c56becf07cdffea\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:8:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:9:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:11:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.WeddingPlanner" >
+22-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:13:9-52
+23        <activity
+23-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:15:9-23:20
+24            android:name="com.example.weddingplanner.MainActivity2"
+24-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:16:13-42
+25            android:label="Second Activity"
+25-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:17:13-44
+26            android:parentActivityName="com.example.weddingplanner.MainActivity" >
+26-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:18:13-55
+27            <meta-data
+27-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:20:13-22:36
+28                android:name="android.app.lib_name"
+28-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:21:17-52
+29                android:value="" />
+29-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:22:17-33
+30        </activity>
+31        <activity
+31-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:24:9-36:20
+32            android:name="com.example.weddingplanner.MainActivity"
+32-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:25:13-41
+33            android:exported="true" >
+33-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:26:13-36
+34            <intent-filter>
+34-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:27:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:28:17-69
+35-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:28:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:30:17-77
+37-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39
+40            <meta-data
+40-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:20:13-22:36
+41                android:name="android.app.lib_name"
+41-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:21:17-52
+42                android:value="" />
+42-->C:\Users\natha\AndroidStudioProjects\WeddingPlanner\app\src\main\AndroidManifest.xml:22:17-33
+43        </activity>
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+47            android:authorities="com.example.weddingplanner.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\natha\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\natha\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\natha\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\natha\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
