@@ -36,8 +36,8 @@
 23-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:15:9-23:20
 24            android:name="com.example.weddingplanner.MainActivity2"
 24-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:16:13-42
-25            android:label="Second Activity"
-25-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:17:13-44
+25            android:label="PLAN YOUR EVENT!"
+25-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:17:13-45
 26            android:parentActivityName="com.example.weddingplanner.MainActivity" >
 26-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:18:13-55
 27            <meta-data

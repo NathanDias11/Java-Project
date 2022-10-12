@@ -22,7 +22,7 @@
         android:theme="@style/Theme.WeddingPlanner" >
         <activity
             android:name="com.example.weddingplanner.MainActivity2"
-            android:label="Second Activity"
+            android:label="PLAN YOUR EVENT!"
             android:parentActivityName="com.example.weddingplanner.MainActivity" >
             <meta-data
                 android:name="android.app.lib_name"

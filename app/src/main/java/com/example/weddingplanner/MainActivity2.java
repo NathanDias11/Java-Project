@@ -31,20 +31,65 @@ public class MainActivity2 extends AppCompatActivity {
         String bud = intent.getStringExtra(MainActivity.EXTRA_NAME2);
 
         int number = Integer.parseInt(gus);
+        int budget = Integer.parseInt(bud);
+        int n;
 
-        if(number==45)
+        if(number == 100 && budget == 1)
         {
-            editTextTextPersonName5.setText(gus);
+            n=1;
         }
-        else {
-            editTextTextPersonName5.setText(null);
+        else
+        {
+            if(number == 200 && budget == 2)
+            {
+                 n=2;
+            }
+            else
+            {
+                if(number == 300 && budget == 3)
+                {
+                    n=3;
+                }
+                else
+                {
+                    n=0;
+                }
+            }
+
+        }
+
+        switch(n)
+        {
+            case 1:
+                editTextTextPersonName4.setText("Name: Rajesh Patil");
+                editTextTextPersonName5.setText("Contact: 7249735828");
+                editTextTextPersonName6.setText("Company:R J Event Managers");
+                break;
+
+            case 2:
+                editTextTextPersonName4.setText("Name: Raj Shinde");
+                editTextTextPersonName5.setText("Contact: 9970851627");
+                editTextTextPersonName6.setText("Company:Star Event Organizers");
+                break;
+
+            case 3:
+                editTextTextPersonName4.setText("Name: Prakash Mane");
+                editTextTextPersonName5.setText("Contact: 8600098830");
+                editTextTextPersonName6.setText("Company:MANE Event Organizers");
+                break;
+
+
+                default:
+                editTextTextPersonName4.setText("NO MATCH FOUND");
+                editTextTextPersonName5.setText("NO MATCH FOUND");
+                editTextTextPersonName6.setText("NO MATCH FOUND");
+
+
+
         }
 
 
 
-        editTextTextPersonName4.setText(loc);
-        //editTextTextPersonName5.setText(gus);
-        editTextTextPersonName6.setText(bud);
 
 
 
