@@ -20,6 +20,7 @@ id textView
 layout activity_main
 layout activity_main2
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 string app_name
 style Theme.WeddingPlanner
