@@ -29,70 +29,69 @@
 19-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
 20-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:12:9-35
-21        android:testOnly="true"
-22        android:theme="@style/Theme.WeddingPlanner" >
-22-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:13:9-52
-23        <activity
-23-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:15:9-23:20
-24            android:name="com.example.weddingplanner.MainActivity2"
-24-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:16:13-42
-25            android:label="PLAN YOUR EVENT!"
-25-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:17:13-45
-26            android:parentActivityName="com.example.weddingplanner.MainActivity" >
-26-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:18:13-55
-27            <meta-data
-27-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:20:13-22:36
-28                android:name="android.app.lib_name"
-28-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:21:17-52
-29                android:value="" />
-29-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:22:17-33
-30        </activity>
-31        <activity
-31-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:24:9-36:20
-32            android:name="com.example.weddingplanner.MainActivity"
-32-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:25:13-41
-33            android:exported="true" >
-33-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:26:13-36
-34            <intent-filter>
-34-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:27:13-31:29
-35                <action android:name="android.intent.action.MAIN" />
-35-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:28:17-69
-35-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:28:25-66
-36
-37                <category android:name="android.intent.category.LAUNCHER" />
-37-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:30:17-77
-37-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:30:27-74
-38            </intent-filter>
-39
-40            <meta-data
-40-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:20:13-22:36
-41                android:name="android.app.lib_name"
-41-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:21:17-52
-42                android:value="" />
-42-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:22:17-33
-43        </activity>
-44
-45        <provider
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-46            android:name="androidx.startup.InitializationProvider"
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-47            android:authorities="com.example.weddingplanner.androidx-startup"
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-48            android:exported="false" >
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-49            <meta-data
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-51                android:value="androidx.startup" />
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-52            <meta-data
-52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-54                android:value="androidx.startup" />
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-55        </provider>
-56    </application>
-57
-58</manifest>
+21        android:theme="@style/Theme.WeddingPlanner" >
+21-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:13:9-52
+22        <activity
+22-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:15:9-23:20
+23            android:name="com.example.weddingplanner.MainActivity2"
+23-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:16:13-42
+24            android:label="PLAN YOUR EVENT!"
+24-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:17:13-45
+25            android:parentActivityName="com.example.weddingplanner.MainActivity" >
+25-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:18:13-55
+26            <meta-data
+26-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:20:13-22:36
+27                android:name="android.app.lib_name"
+27-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:21:17-52
+28                android:value="" />
+28-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:22:17-33
+29        </activity>
+30        <activity
+30-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:24:9-36:20
+31            android:name="com.example.weddingplanner.MainActivity"
+31-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:25:13-41
+32            android:exported="true" >
+32-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:26:13-36
+33            <intent-filter>
+33-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:27:13-31:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:28:17-69
+34-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:28:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:30:17-77
+36-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:30:27-74
+37            </intent-filter>
+38
+39            <meta-data
+39-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:20:13-22:36
+40                android:name="android.app.lib_name"
+40-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:21:17-52
+41                android:value="" />
+41-->E:\project\Java-Project\app\src\main\AndroidManifest.xml:22:17-33
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+46            android:authorities="com.example.weddingplanner.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\denni\.gradle\caches\transforms-3\534a23b582687ff41a7186a04e3a238c\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\denni\.gradle\caches\transforms-3\0d1c36957947c0cced820087c8164150\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+54        </provider>
+55    </application>
+56
+57</manifest>
