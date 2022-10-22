@@ -1,5 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 color black
 color purple_200
 color purple_500
@@ -9,6 +13,16 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable main_screen
+drawable main_screen2
+drawable main_screen3
+font abril_fatface
+font advent_pro_semibold
+font allerta_stencil
+font amaranth_bold
+font archivo
+font asset
+font roboto_slab
 id button
 id editTextNumber
 id editTextNumber2
