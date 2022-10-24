@@ -2476,6 +2476,11 @@ drawable m3_tabs_transparent_background
 drawable main_screen
 drawable main_screen2
 drawable main_screen3
+drawable mainscreen4
+drawable mainscreen5
+drawable mainscreen6
+drawable mainscreen7
+drawable mainscreen8
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2514,7 +2519,10 @@ drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 font abril_fatface
+font aclonica
+font adamina
 font advent_pro_semibold
+font alata
 font allerta_stencil
 font amaranth_bold
 font archivo

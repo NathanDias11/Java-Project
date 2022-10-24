@@ -1,13 +1,5 @@
 [
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_amaranth_bold.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/amaranth_bold.ttf"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-hdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-xxhdpi\\ic_launcher_background.png"
     },
@@ -16,48 +8,112 @@
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_abril_fatface.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/abril_fatface.ttf"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-hdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_main_screen.jpeg.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\main_screen.jpeg"
     },
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/layout_activity_main.xml.flat",
-        "source": "com.example.weddingplanner.app-main-27:/layout/activity_main.xml"
+        "merged": "com.example.weddingplanner.app-merged_res-25:/layout_activity_main2.xml.flat",
+        "source": "com.example.weddingplanner.app-main-27:/layout/activity_main2.xml"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_abril_fatface.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\abril_fatface.ttf"
     },
     {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_screen_2.jpeg.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\screen_2.jpeg"
     },
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_advent_pro_semibold.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/advent_pro_semibold.ttf"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_allerta_stencil.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\allerta_stencil.ttf"
     },
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_roboto_slab.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/roboto_slab.ttf"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_asset.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\asset.ttf"
     },
     {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_asset.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/asset.ttf"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_mainscreen6.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\mainscreen6.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_archivo.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\archivo.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_main_screen2.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\main_screen2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_mainscreen4.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\mainscreen4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_main_screen3.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\main_screen3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_roboto_slab.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\roboto_slab.ttf"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_advent_pro_semibold.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\advent_pro_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_mainscreen5.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\mainscreen5.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_adamina.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\adamina.ttf"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
@@ -76,14 +132,6 @@
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_archivo.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\archivo.xml"
-    },
-    {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
@@ -92,20 +140,20 @@
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-anydpi-v21\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_main_screen2.jpeg.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\main_screen2.jpeg"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_aclonica.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\aclonica.ttf"
+    },
+    {
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_alata.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\alata.ttf"
     },
     {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
@@ -120,12 +168,12 @@
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_mainscreen7.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\mainscreen7.jpeg"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
@@ -140,31 +188,15 @@
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\layout_activity_main2.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\layout\\activity_main2.xml"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-debug-26:\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_main_screen3.jpeg.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\main_screen3.jpeg"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_amaranth_bold.ttf.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\amaranth_bold.ttf"
     },
     {
         "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\font_roboto_bold.xml.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\font\\roboto_bold.xml"
-    },
-    {
-        "merged": "com.example.weddingplanner.app-merged_res-25:/font_allerta_stencil.ttf.flat",
-        "source": "com.example.weddingplanner.app-main-27:/font/allerta_stencil.ttf"
-    },
-    {
-        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-pngs-20:\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-merged_res-25:\\drawable_mainscreen8.jpeg.flat",
+        "source": "C:\\Users\\denni\\.gradle\\daemon\\7.4\\com.example.weddingplanner.app-main-27:\\drawable\\mainscreen8.jpeg"
     }
 ]
